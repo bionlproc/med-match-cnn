@@ -1,6 +1,6 @@
 # EMR Coding with Semi-Parametric Multi-Head Matching Networks
 
-This repo contains code for our 2018 NAACL paper titled "EMR Coding with Semi-Parametric Multi-Head Matching Networks".
+Coding EMRs with diagnosis and procedure codes is an indispensable task for billing, secondary data analyses, and monitoring health trends. Both speed and accuracy of coding are critical. While coding errors could lead to more patient-side financial burden and misinterpretation of a patient’s well-being, timely coding is also needed to avoid backlogs and additional costs for the healthcare facility. In this repository, we provide the code for a new neural network architecture that combines ideas from few-shot learning matching networks, multi-label loss functions, and convolutional neural networks for text classification to significantly outperform other state-of-the-art models for coding EMRs.
 
 **Note:** Examples of the data format can be found in the "data" folder.
 
